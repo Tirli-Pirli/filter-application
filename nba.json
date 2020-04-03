@@ -1,0 +1,223 @@
+[
+    {
+    "year": 2000,
+    "champion": "Los Angeles Lakers",
+    "runnerUp": "Indiana Pacers",
+    "finalsMVP": "Shaquille O'Neal",
+    "mvp": "Shaquille O'Neal",
+    "pictureChamp": "assets/lakers.jpg",
+    "pictureRunnerUp": "assets/pacers.jpg",
+    "picFinalsMvp": "assets/ONeal.jpg",
+    "picMvp": "assets/ONeal.jpg"
+  },
+  {
+    "year": 2001,
+    "champion": "Los Angeles Lakers",
+    "runnerUp": "Philadelphia 76ers",
+    "finalsMVP": "Shaquille O'Neal",
+    "mvp": "Allen Iverson",
+    "pictureChamp": "assets/lakers.jpg",
+    "pictureRunnerUp": "assets/76ers.jpg",
+    "picFinalsMvp": "assets/ONeal.jpg",
+    "picMvp": "assets/Iverson.jpg"
+  },
+  {
+    "year": 2002,
+    "champion": "Los Angeles Lakers",
+    "runnerUp": "New Jersey Nets",
+    "finalsMVP": "Shaquille O'Neal",
+    "mvp": "Tim Duncan",
+    "pictureChamp": "assets/lakers.jpg",
+    "pictureRunnerUp": "assets/nets.jpg",
+    "picFinalsMvp": "assets/ONeal.jpg",
+    "picMvp": "assets/duncan.jpg"
+  },
+  {
+    "year": 2003,
+    "champion": "San Antonio Spurs",
+    "runnerUp": "New Jersey Nets",
+    "finalsMVP": "Tim Duncan",
+    "mvp": "Tim Duncan",
+    "pictureChamp": "assets/spurs.jpg",
+    "pictureRunnerUp": "assets/nets.jpg",
+    "picFinalsMvp": "assets/duncan.jpg",
+    "picMvp": "assets/duncan.jpg"
+  },
+  {
+    "year": 2004,
+    "champion": "Detroit Pistons",
+    "runnerUp": "Los Angeles Lakers",
+    "finalsMVP": "Chauncey Billups",
+    "mvp": "Kevin Garnett",
+    "pictureChamp": "assets/pistons.jpg",
+    "pictureRunnerUp": "assets/lakers.jpg",
+    "picFinalsMvp": "assets/billups.jpg",
+    "picMvp": "assets/garnett.jpg"
+  },
+  {
+    "year": 2005,
+    "champion": "San Antonio Spurs",
+    "runnerUp": "Detroit Pistons",
+    "finalsMVP": "Tim Duncan",
+    "mvp": "Steve Nash",
+    "pictureChamp": "assets/spurs.jpg",
+    "pictureRunnerUp": "assets/pistons.jpg",
+    "picFinalsMvp": "assets/duncan.jpg",
+    "picMvp": "assets/nash.jpg"
+  },
+  {
+    "year": 2006,
+    "champion": "Miami Heat",
+    "runnerUp": "Dallas Mavericks",
+    "finalsMVP": "Dwyane Wade",
+    "mvp": "Steve Nash",
+    "pictureChamp": "assets/heat.jpg",
+    "pictureRunnerUp": "assets/dallas.jpg",
+    "picFinalsMvp": "assets/wade.jpeg",
+    "picMvp": "assets/nash.jpg"
+  },
+  {
+    "year": 2007,
+    "champion": "San Antonio Spurs",
+    "runnerUp": "Cleveland Cavaliers",
+    "finalsMVP": "Tony Parker",
+    "mvp": "Dirk Nowitzki",
+    "pictureChamp": "assets/spurs.jpg",
+    "pictureRunnerUp": "assets/cavs.jpg",
+    "picFinalsMvp": "assets/parker.jpg",
+    "picMvp": "assets/dirk.jpg"
+  },
+  {
+    "year": 2008,
+    "champion": "Boston Celtics",
+    "runnerUp": "Los Angeles Lakers",
+    "finalsMVP": "Paul Pierce",
+    "mvp": "Kobe Bryant",
+    "pictureChamp": "assets/boston.jpg",
+    "pictureRunnerUp": "assets/lakers.jpg",
+    "picFinalsMvp": "assets/pierce.jpg",
+    "picMvp": "assets/kobe.jpg"
+  },
+  {
+    "year": 2009,
+    "champion": "Los Angeles Lakers",
+    "runnerUp": "Orlando Magic",
+    "finalsMVP": "Kobe Bryant",
+    "mvp": "LeBron James",
+    "pictureChamp": "assets/lakers.jpg",
+    "pictureRunnerUp": "assets/magic.jpg",
+    "picFinalsMvp": "assets/kobe.jpg",
+    "picMvp": "assets/lebron.jpg"
+  },
+  {
+    "year": 2010,
+    "champion": "Los Angeles Lakers",
+    "runnerUp": "Boston Celtics",
+    "finalsMVP": "Kobe Bryant",
+    "mvp": "LeBron James",
+    "pictureChamp": "assets/lakers.jpg",
+    "pictureRunnerUp": "assets/boston.jpg",
+    "picFinalsMvp": "assets/kobe.jpg",
+    "picMvp": "assets/lebron.jpg"
+  },
+  {
+    "year": 2011,
+    "champion": "Dallas Mavericks",
+    "runnerUp": "Miami Heat",
+    "finalsMVP": "Dirk Nowitzki",
+    "mvp": "Derrick Rose",
+    "pictureChamp": "assets/dallas.jpg",
+    "pictureRunnerUp": "assets/heat.jpg",
+    "picFinalsMvp": "assets/dirk.jpg",
+    "picMvp": "assets/rose.jpg"
+  },
+  {
+    "year": 2012,
+    "champion": "Miami Heat",
+    "runnerUp": "Oklahoma City Thunder",
+    "finalsMVP": "LeBron James",
+    "mvp": "LeBron James",
+    "pictureChamp": "assets/heat.jpg",
+    "pictureRunnerUp": "assets/thunder.jpg",
+    "picFinalsMvp": "assets/lebron.jpg",
+    "picMvp": "assets/lebron.jpg"
+  },
+  {
+    "year": 2013,
+    "champion": "Miami Heat",
+    "runnerUp": "San Antonio Spurs",
+    "finalsMVP": "LeBron James",
+    "mvp": "LeBron James",
+    "pictureChamp": "assets/heat.jpg",
+    "pictureRunnerUp": "assets/spurs.jpg",
+    "picFinalsMvp": "assets/lebron.jpg",
+    "picMvp": "assets/lebron.jpg"
+  },
+  {
+    "year": 2014,
+    "champion": "San Antonio Spurs",
+    "runnerUp": "Miami Heat",
+    "finalsMVP": "Kawhi Leonard",
+    "mvp": "Kevin Durant",
+    "pictureChamp": "assets/spurs.jpg",
+    "pictureRunnerUp": "assets/heat.jpg",
+    "picFinalsMvp": "assets/kawhi.jpg",
+    "picMvp": "assets/durant.jpg"
+  },
+  {
+    "year": 2015,
+    "champion": "Golden State Warriors",
+    "runnerUp": "Cleveland Cavaliers",
+    "finalsMVP": "Andre Iguodala",
+    "mvp": "Stephen Curry",
+    "pictureChamp": "assets/gsw.jpg",
+    "pictureRunnerUp": "assets/cavs.jpg",
+    "picFinalsMvp": "assets/iguodala.jpg",
+    "picMvp": "assets/curry.jpg"
+  },
+  {
+    "year": 2016,
+    "champion": "Cleveland Cavaliers",
+    "runnerUp": "Golden State Warriors",
+    "finalsMVP": "LeBron James",
+    "mvp": "Stephen Curry",
+    "pictureChamp": "assets/cavs.jpg",
+    "pictureRunnerUp": "assets/gsw.jpg",
+    "picFinalsMvp": "assets/lebron.jpg",
+    "picMvp": "assets/curry.jpg"
+
+  },
+  {
+    "year": 2017,
+    "champion": "Golden State Warriors",
+    "runnerUp":  "Cleveland Cavaliers",
+    "finalsMVP": "Kevin Durant",
+    "mvp": "Russell Westbrook",
+    "pictureChamp": "assets/gsw.jpg",
+    "pictureRunnerUp": "assets/cavs.jpg",
+    "picFinalsMvp": "assets/durant.jpg",
+    "picMvp": "assets/westbrook.jpg"
+  },
+  {
+    "year": 2018,
+    "champion": "Golden State Warriors",
+    "runnerUp": "Cleveland Cavaliers",
+    "finalsMVP": "Kevin Durant",
+    "mvp": "James Harden",
+    "pictureChamp": "assets/gsw.jpg",
+    "pictureRunnerUp": "assets/cavs.jpg",
+    "picFinalsMvp": "assets/durant.jpg",
+    "picMvp": "assets/harden.jpg"
+  },
+  {
+    "year": 2019,
+    "champion": "Toronto Raptors",
+    "runnerUp": "Golden State Warriors",
+    "finalsMVP": "Kawhi Leonard",
+    "mvp": "Giannis Antetokounmpo",
+    "pictureChamp": "assets/raptors.jpg",
+    "pictureRunnerUp": "assets/gsw.jpg",
+    "picFinalsMvp": "assets/kawhi.jpg",
+    "picMvp": "assets/gianis.jpg"
+  }
+]

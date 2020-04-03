@@ -1,0 +1,41 @@
+
+body {
+    background-image: url(/assets/Nbapic.jpg);
+    position: relative;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+h1 {
+    font-size: 30px;
+}
+
+label {
+    font-size: 30px;
+    font-weight: 600;
+}
+select {
+    width: 200px;
+    height: 30px;
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.selection {
+    text-align: center;
+    margin-top: 170px;
+    background-color: honeydew;
+    padding: 25px;
+}
+.allButtons {
+    padding-top: 30px;
+
+}
+.btn1 , .btn2, .btn3, .btn4 {
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 700;
+
+} 
